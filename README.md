@@ -1,4 +1,8 @@
 ## Hi there 👋
+🔭 I am currently working on AI projects that will have a significant level of impact
+🌱 I am currently Learning how to use the tools that will aid my progress, and my goal is to master them.
+👯 I look forward to collaborating on AI projects
+⚡ Fun fact: I am a technical product manager but AI has made building a bit more fun 😄
 
 <!--
 **favour-augustine/Favour-augustine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
